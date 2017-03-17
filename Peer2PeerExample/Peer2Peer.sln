@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peer2Peer", "Peer2Peer.csproj", "{D4AD5F80-6EE4-8D5C-938E-7E600BD010A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peer2Peer.Editor", "Peer2Peer.Editor.csproj", "{E90C9822-E8F1-83EE-9DCB-0A2EAC6A82FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4AD5F80-6EE4-8D5C-938E-7E600BD010A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AD5F80-6EE4-8D5C-938E-7E600BD010A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AD5F80-6EE4-8D5C-938E-7E600BD010A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AD5F80-6EE4-8D5C-938E-7E600BD010A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90C9822-E8F1-83EE-9DCB-0A2EAC6A82FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90C9822-E8F1-83EE-9DCB-0A2EAC6A82FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90C9822-E8F1-83EE-9DCB-0A2EAC6A82FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90C9822-E8F1-83EE-9DCB-0A2EAC6A82FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
