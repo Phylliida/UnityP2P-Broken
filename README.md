@@ -1,4 +1,5 @@
-# UnityP2P
+# UnityP2P-Broken
+
 UDP hole punching in Unity3D in C# for peer to peer networking, using PubNub as a free signaling server.
 
 I wrote this for use in Unity however there aren't really any Unity dependencies so this should work fine as a standalone C# library as well.
@@ -10,3 +11,5 @@ Note that with TCP, messages sent are guaranteed to be received (assuming the co
 Someday I'll do TCP hole punching as well but it's a little more tricky so I haven't done it yet.
 
 Feel free to submit pull requests if you'd like =).
+
+After a lot of testing this doesn't actually work.
